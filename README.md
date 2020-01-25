@@ -1,5 +1,5 @@
 # Chroma-Keying
-Implementing the chroma keying technique, as part of the computer vision course, Spring 2020 \\
+Implementing the chroma keying technique, as part of the computer vision course, Spring 2020 \
 Assignment-0
 
 Problem 1:

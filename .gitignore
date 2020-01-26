@@ -1,0 +1,16 @@
+*.DS_Store
+Assignment0.pdf
+
+# output images
+/final1
+/final2
+/final3
+/frames
+
+# input videos
+green.mp4
+captain.mov
+
+# output merged videos
+video.avi
+video2.avi

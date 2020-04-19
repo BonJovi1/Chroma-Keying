@@ -14,3 +14,5 @@ captain.mov
 # output merged videos
 video.avi
 video2.avi
+
+.ipynb_checkpoints/

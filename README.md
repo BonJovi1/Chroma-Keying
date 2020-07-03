@@ -1,5 +1,5 @@
 # Chroma-Keying
-Implementing the chroma keying technique, as part of the computer vision course, Spring 2020 \
+Implementing the chroma keying technique. This was Assignment-0 of the computer vision course, Spring 2020 \
 Use the jupyter notebook viewer: https://nbviewer.jupyter.org/github/BonJovi1/Chroma-Keying/blob/master/code.ipynb
 
 Problem 1: Videos -> Images \
